@@ -1,7 +1,5 @@
 #System Infomation
 
-#!/bin/sh
-echo "Please select one of them[1-4] ..."
 
 #!/bin/sh
 echo "Please select to one[1-4] ..."
